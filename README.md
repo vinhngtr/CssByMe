@@ -2,9 +2,11 @@
 
 ## Project 1: CSS CARD WITH HOVER DESCRIPTION
 ### Picture card in project
-![<img src="CardHover.PNG" width = "100", height = "100" alt="">](Picture/CardHover.PNG)
+<img src = "Picture/CardHover.PNG" width ="800" height = "400" />
+
 ### Card when hover
-![Screenshot](Picture/hoverCard.PNG)
+<img src = "Picture/hoverCard.PNG" width ="800" height = "400" />
+
 **Description**
 - One card include: picture and text content
 - **textContent** will hidden text overflow
