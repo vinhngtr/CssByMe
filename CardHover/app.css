@@ -55,6 +55,7 @@ img{
     border: 1px solid white;
     border-radius: 10px;
     padding:  0.4em 1.2em;
+    /* ? tạo phông mờ cho div với backdrop-filter */
     backdrop-filter: blur(10px);
     transition: 0.4s;
     transform: scale(0.9);   
