@@ -1,6 +1,6 @@
 # List project for learning CSS
 
-## Project 1: CSS CARD WITH HOVER DESCRIPTION
+## Project 1: CSS CARD HOVER DESCRIPTION
 ### Picture card in project
 <img src = "Picture/CardHover.PNG" width ="800" height = "400" />
 
