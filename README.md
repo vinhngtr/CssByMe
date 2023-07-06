@@ -1,4 +1,4 @@
-# LIST PROJECT IMPROVE SKILL CSS
+# List project for learning CSS
 
 ## Project 1: CSS CARD WITH HOVER DESCRIPTION
 ### Picture card in project
