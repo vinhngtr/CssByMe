@@ -10,6 +10,7 @@
 **Description**
 - One card include: picture and text content
 - **textContent** will hidden text overflow
+- **Link demo**: [Preview](css-by-me.vercel.app)
 
 ## Project 2: EFFECT CARD STACK
 <img src = "Picture/stackCard.PNG" width ="800" height = "500" />
